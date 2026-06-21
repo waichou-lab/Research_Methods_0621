@@ -1,0 +1,14 @@
+Epoch     0, Loss PDE: 1.74e+00, BC: 2.96e+00, Total: 4.70e+00
+Epoch  5000, Loss PDE: 8.30e-05, BC: 5.73e-05, Total: 1.40e-04
+Epoch 10000, Loss PDE: 1.67e-05, BC: 3.47e-05, Total: 5.15e-05
+Epoch 15000, Loss PDE: 9.37e-06, BC: 2.19e-05, Total: 3.12e-05
+Epoch 20000, Loss PDE: 1.35e-05, BC: 1.51e-05, Total: 2.86e-05
+Epoch 25000, Loss PDE: 4.73e-06, BC: 6.96e-06, Total: 1.17e-05
+Epoch 30000, Loss PDE: 3.63e-06, BC: 4.57e-06, Total: 8.20e-06
+Epoch 35000, Loss PDE: 2.59e-06, BC: 2.81e-06, Total: 5.40e-06
+Epoch 40000, Loss PDE: 2.12e-06, BC: 1.91e-06, Total: 4.03e-06
+Epoch 45000, Loss PDE: 7.41e-06, BC: 4.11e-06, Total: 1.15e-05
+Epoch 50000, Loss PDE: 1.65e-06, BC: 9.63e-07, Total: 2.62e-06
+Epoch 55000, Loss PDE: 1.52e-06, BC: 7.19e-07, Total: 2.24e-06
+训练完成！
+E_inf = 2.3594e-03, E_mean = 2.5112e-04
